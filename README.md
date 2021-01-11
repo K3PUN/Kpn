@@ -1,2 +1,2 @@
-# Kpn
+# Kpn.py
 Kepun the pepek
